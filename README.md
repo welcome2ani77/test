@@ -1,2 +1,2 @@
 # test
-## This is atest repo
+## This is a test repo

@@ -3,3 +3,5 @@ Hello I am checking in notepad
 Commit 1
 
 Commit 2
+
+Commit 3
